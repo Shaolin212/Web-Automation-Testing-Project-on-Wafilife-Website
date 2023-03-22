@@ -6,10 +6,10 @@ URL: www.wafilife.com
 Automation Steps:
 
 1. Visit this site<br>
-Click লেখক from the menu
-Scroll Down and go to the Next Page
-Select any Author
-View any Book Details
-Click অর্ডার করুন
-Click অর্ডার সম্পন্ন করুন
-Provide all Information of billing and shipping
+2. Click লেখক from the menu<br>
+3. Scroll Down and go to the Next Page<br>
+4. Select any Author<br>
+5. View any Book Details<br>
+6. Click অর্ডার করুন<br>
+7. Click অর্ডার সম্পন্ন করুন<br>
+8. Provide all Information of billing and shipping<br>
