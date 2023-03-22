@@ -5,7 +5,7 @@ URL: www.wafilife.com
 
 Automation Steps:
 
-Visit this site
+1. Visit this site<br>
 Click লেখক from the menu
 Scroll Down and go to the Next Page
 Select any Author
